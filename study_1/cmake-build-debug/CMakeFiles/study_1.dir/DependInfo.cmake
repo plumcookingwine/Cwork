@@ -4,14 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "F:/cwork/study/study_1/main.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/main.c.obj"
-  "F:/cwork/study/study_1/study1.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study1.c.obj"
-  "F:/cwork/study/study_1/study2.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study2.c.obj"
-  "F:/cwork/study/study_1/study3.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study3.c.obj"
-  "F:/cwork/study/study_1/study4.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study4.c.obj"
-  "F:/cwork/study/study_1/study5.c" "F:/cwork/study/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study5.c.obj"
+  "/Users/kangfan/work/Cwork/study_1/function.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/function.c.o"
+  "/Users/kangfan/work/Cwork/study_1/main.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/main.c.o"
+  "/Users/kangfan/work/Cwork/study_1/study1.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study1.c.o"
+  "/Users/kangfan/work/Cwork/study_1/study2.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study2.c.o"
+  "/Users/kangfan/work/Cwork/study_1/study3.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study3.c.o"
+  "/Users/kangfan/work/Cwork/study_1/study4.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study4.c.o"
+  "/Users/kangfan/work/Cwork/study_1/study5.c" "/Users/kangfan/work/Cwork/study_1/cmake-build-debug/CMakeFiles/study_1.dir/study5.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

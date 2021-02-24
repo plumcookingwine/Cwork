@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * »ù´¡,  Õ¼Î»·û
+ * åŸºç¡€,  å ä½ç¬¦
  * @return
  */
 
-// #include <> Ñ°ÕÒÏµÍ³µÄ°ü
-// #include "" Ñ°ÕÒ×Ô¼ºµÄÍ·ÎÄ¼ş
-// .h .hpp (ÉùÃ÷Í·ÎÄ¼ş)
-// .c .cpp (Í·ÎÄ¼şµÄÊµÏÖÎÄ¼ş)
+// #include <> å¯»æ‰¾ç³»ç»Ÿçš„åŒ…
+// #include "" å¯»æ‰¾è‡ªå·±çš„å¤´æ–‡ä»¶
+// .h .hpp (å£°æ˜å¤´æ–‡ä»¶)
+// .c .cpp (å¤´æ–‡ä»¶çš„å®ç°æ–‡ä»¶)
 int main0() {
-    printf("Hello, World!\nÄãºÃ");
+    printf("Hello, World!ä½ å¥½\n");
 
     int i = 100;
     printf("%d\n", i);
@@ -33,6 +33,6 @@ int main0() {
     char *str = "kf";
     printf("%s\n", str);
 
-    // getchar(); // ×èÈû³ÌĞò,²»Í£Ö¹ÔËĞĞ
+    // getchar(); // é˜»å¡ç¨‹åº,ä¸åœæ­¢è¿è¡Œ
     return 0;
 }

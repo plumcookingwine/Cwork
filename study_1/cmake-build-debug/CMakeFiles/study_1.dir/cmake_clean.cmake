@@ -1,13 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/study_1.dir/main.c.obj"
-  "CMakeFiles/study_1.dir/study1.c.obj"
-  "CMakeFiles/study_1.dir/study2.c.obj"
-  "CMakeFiles/study_1.dir/study3.c.obj"
-  "CMakeFiles/study_1.dir/study4.c.obj"
-  "CMakeFiles/study_1.dir/study5.c.obj"
-  "libstudy_1.dll.a"
-  "study_1.exe"
-  "study_1.exe.manifest"
+  "CMakeFiles/study_1.dir/function.c.o"
+  "CMakeFiles/study_1.dir/main.c.o"
+  "CMakeFiles/study_1.dir/study1.c.o"
+  "CMakeFiles/study_1.dir/study2.c.o"
+  "CMakeFiles/study_1.dir/study3.c.o"
+  "CMakeFiles/study_1.dir/study4.c.o"
+  "CMakeFiles/study_1.dir/study5.c.o"
+  "study_1"
   "study_1.pdb"
 )
 
